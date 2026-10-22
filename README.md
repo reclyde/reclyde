@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1f60db45-5eec-4d93-b247-0701c6de2154" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3b0e376c-edf0-4fc9-8e6d-d1de975d70ef" />
   
 <p align="center">
 <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 

@@ -10,3 +10,6 @@ craig gang hmu
 
 <p align="center">  
 ship iwc 
+
+<p align="center"> 
+i rlly should start reply bck ppl ata msgs

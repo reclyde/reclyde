@@ -5,11 +5,9 @@
 <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://pronouns.cc/@C-137">prns.cc</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-<p align="center">
-craig gang hmu 
 
 <p align="center">  
 ship iwc 
 
 <p align="center"> 
-i rlly should start reply bck ppl ata msgs
+will reply to ata msg anytime soon okay

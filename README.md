@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=reclyde&label=death&labelColor=00000&color=000000&style=flat" alt="Profile views badge"/>
+
+<p align="center">
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/5f3f5293-5264-4551-babb-24463f7abf53" />
   
 <p align="center">

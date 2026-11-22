@@ -12,5 +12,4 @@
 <p align="center">  
 ship iwc 
 
-<p align="center"> 
-will reply to ata msg anytime soon okay
+
